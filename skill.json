@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-moa-aggregator",
+  "version": "1.0.0",
+  "description": "OpenClaw MoA Aggregator - Mixture-of-Agents layered Bradley-Terry consensus synthesizer with Borda count aggregation and multi-model synthesis.",
+  "tools": [
+    "aggregate_borda_consensus",
+    "evaluate_bradley_terry_strengths",
+    "synthesize_layered_consensus_response"
+  ]
+}
